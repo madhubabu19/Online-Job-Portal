@@ -1,7 +1,31 @@
-online job portal  is a web application where you can find jobs to apply 
-to apply for jobs you have to sign up  and then you can login you can find jobs based on your preference and then apply for those jobs 
+# 🧑‍💻 Online Job Portal - Java Full Stack Project
 
-PROJECT IMAGES
+This project is a full-stack Java web application using JSP, Servlets, JDBC, and MySQL.
 
-Home Page
-![image alt] (https://github.com/madhubabu19/Online-Job-Portal/blob/c6f046e685cca049196befe05b362776ae5b8ac6/landingpage.png)
+## 📸 Screenshots
+
+### 🔹 Homepage
+![Homepage](https://github.com/madhubabu19/Online-Job-Portal/blob/d4eef689ccc02fecb80ab8a185601747db24ee18/screenshots/landingpage.png)
+
+### 🔹 Login Page
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/login_page.png)
+
+### 🔹 SignUp Page
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/signup_page.png)
+
+### 🔹 Admin Page
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/admin_page.png)
+
+### 🔹 Admin Post
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/adminpost_job.png)
+
+### 🔹 Admin View
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/adminview_job.png)
+
+
+
+
+### 🔹 User View
+![Job List](https://github.com/madhubabu19/Online-Job-Portal/blob/526604e3b7237ef94497489383647f0cbd549981/screenshots/userview_job.png)
+
+)
