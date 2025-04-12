@@ -43,7 +43,7 @@ This project is a full-stack Java web application using JSP, Servlets, JDBC, and
 
 
 
-## 🔗 Our Profiles
+## 🔗 My Profile
 
 MadhuBabu
 
